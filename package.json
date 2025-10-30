@@ -1,0 +1,14 @@
+{
+  "name": "middleware-demo",
+  "version": "1.0.0",
+  "description": "Demonstration of middleware implementation (logging & authentication) using Express.js",
+  "main": "server.js",
+  "type": "module",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2",
+    "body-parser": "^1.20.2"
+  }
+}
